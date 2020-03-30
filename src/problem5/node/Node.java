@@ -7,7 +7,7 @@
 package problem5.node;
 // to define node properties
 public class Node {
-	private Student data;
+	private  Student data;
 	private Node next;
 
 	public Node(Student data){

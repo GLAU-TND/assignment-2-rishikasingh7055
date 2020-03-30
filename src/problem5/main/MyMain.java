@@ -11,7 +11,7 @@ import problem5.student.Student;
 //executable class
 public class MyMain {
 	public static void main(String[] args) {
-		MyCircularQueue myCircularQueue  =new MyCircularQueue(3);
+		MyCircularQueue myCircularQueue  = new MyCircularQueue(3);
 		Student student=new Student();
 		myCircularQueue.enqueue(new Student("T",0,0));
 		myCircularQueue.enqueue(new Student("Y",1,1));

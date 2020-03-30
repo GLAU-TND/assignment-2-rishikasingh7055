@@ -87,7 +87,7 @@ public class MyCircularQueue {	private int front;
 	}
 
 	public Student[] getCircularQueue() {
-		return circularQueue;
+		return  circularQueue;
 	}
 
 	public void setCircularQueue(Student[] circularQueue) {
