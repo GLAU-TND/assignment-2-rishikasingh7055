@@ -54,7 +54,7 @@ public class MyCircularQueue {	private int front;
 
 	}
 
-	public int getSize() {
+	public int  getSize() {
 		return size;
 	}
 
