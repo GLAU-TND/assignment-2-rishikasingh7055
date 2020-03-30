@@ -5,7 +5,7 @@ public class Mylinklist {
 	private Node last;
 
 	public void addLast(Student student) {
-		Node node = new Node(student);
+		Node node = new  Node(student);
 		if (first == null) {
 			first = last = node;
 			return;
